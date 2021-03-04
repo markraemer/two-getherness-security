@@ -8,7 +8,7 @@ With Two-Getherness all of your household can be safer at home.
 
 # Prototype
 
-low fidelity: https://markraemer.github.io/two-getherness-security/?ps=1&ha=0&la=0&fc=0&dt=iphoneX&out=0#/
+low fidelity: https://markraemer.github.io/two-getherness-security/
 
 # Author
 Martin J. Kraemer
